@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a {
+  display: block;
+}
+
+.title {
+  text-align: center;
+  padding: 10px;
+  margin: 10px;
+}
+
+ul,
+li {
+  padding: 5px;
+  margin-bottom: 5px;
+  margin-left: 10px;
+}
+
+.container {
+  margin: 20px;
+}
+
+.recipes {
+  padding-top: 20px;
+  padding-bottom: 25px;
+}
+
+img {
+  margin-bottom: 20px;
+}
+
+h2 {
+  margin-left: 70px;
+  margin-bottom: 20px;
+}
+
+.ingredients {
+  padding: 20px;
+}
