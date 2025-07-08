@@ -1,0 +1,19 @@
+body {
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  background-color: aquamarine;
+  width: 510px;
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.item {
+  background-color: antiquewhite;
+  width: 500px;
+  height: 50px;
+}
